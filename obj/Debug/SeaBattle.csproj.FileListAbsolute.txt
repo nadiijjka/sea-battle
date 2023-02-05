@@ -1,0 +1,42 @@
+C:\Users\0rthod0x\Desktop\LABS\C#\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\0rthod0x\Desktop\LABS\C#\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\0rthod0x\Desktop\LABS\C#\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\0rthod0x\Desktop\LABS\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\0rthod0x\Desktop\LABS\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\0rthod0x\Desktop\LABS\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\0rthod0x\Desktop\LABS\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\0rthod0x\Desktop\LABS\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\0rthod0x\Desktop\LABS\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\0rthod0x\Desktop\LABS\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb
+C:\Users\0rthod0x\Desktop\LABS\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.SeaBattle.resources
+C:\Users\0rthod0x\Desktop\Freelance\C#\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\0rthod0x\Desktop\Freelance\C#\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\0rthod0x\Desktop\Freelance\C#\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\0rthod0x\Desktop\Freelance\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\0rthod0x\Desktop\Freelance\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\0rthod0x\Desktop\Freelance\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.SeaBattle.resources
+C:\Users\0rthod0x\Desktop\Freelance\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\0rthod0x\Desktop\Freelance\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\0rthod0x\Desktop\Freelance\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\0rthod0x\Desktop\Freelance\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\0rthod0x\Desktop\Freelance\C#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb
+C:\Users\nadia\OneDrive\Рабочий стол\SeaBattle\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\nadia\OneDrive\Рабочий стол\SeaBattle\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\nadia\OneDrive\Рабочий стол\SeaBattle\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\nadia\OneDrive\Рабочий стол\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\nadia\OneDrive\Рабочий стол\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.SeaBattle.resources
+C:\Users\nadia\OneDrive\Рабочий стол\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\nadia\OneDrive\Рабочий стол\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\nadia\OneDrive\Рабочий стол\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\nadia\OneDrive\Рабочий стол\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\nadia\OneDrive\Рабочий стол\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb
+C:\Users\nadia\OneDrive\Рабочий стол\курсова робота\SeaBattle\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\nadia\OneDrive\Рабочий стол\курсова робота\SeaBattle\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\nadia\OneDrive\Рабочий стол\курсова робота\SeaBattle\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\nadia\OneDrive\Рабочий стол\курсова робота\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\nadia\OneDrive\Рабочий стол\курсова робота\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.SeaBattle.resources
+C:\Users\nadia\OneDrive\Рабочий стол\курсова робота\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\nadia\OneDrive\Рабочий стол\курсова робота\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\nadia\OneDrive\Рабочий стол\курсова робота\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\nadia\OneDrive\Рабочий стол\курсова робота\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\nadia\OneDrive\Рабочий стол\курсова робота\SeaBattle\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb
